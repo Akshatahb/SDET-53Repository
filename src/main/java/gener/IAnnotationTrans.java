@@ -12,5 +12,8 @@ public class IAnnotationTrans implements IAnnotationTransformer {
 	public void transform(ITestAnnotation annotation, Class testClass, Constructor testConstructor, Method testMethod,
 			Class<?> occurringClazz) {
 		annotation.setRetryAnalyzer(gener.RetryimpClass.class);
+		
+		
+		
 	}	 
 }

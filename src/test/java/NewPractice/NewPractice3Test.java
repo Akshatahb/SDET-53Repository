@@ -12,7 +12,7 @@ public class NewPractice3Test {
 	@Test(groups={"regression"})
 	public void sam2Test()
 	{
-		System.out.println("---------Test Script 8-----------");
+		System.out.println("---------Test Script 8-----------");  
 	}
 
 	@Test

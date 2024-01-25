@@ -12,7 +12,7 @@ public class NewPractice4Test {
 	@Test
 	public void demoNew2Test()
 	{
-		System.out.println("---------Test Script 11-----------");
+		System.out.println("---------Test Script 11-----------");  
 	}
 */
 }

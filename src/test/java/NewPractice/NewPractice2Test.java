@@ -12,7 +12,7 @@ public class NewPractice2Test {
 	@Test(groups="smoke")
 	public void sample2Test()
 	{
-		System.out.println("---------Test Script 5-----------");
+		  System.out.println("---------Test Script 5-----------");
 	}
 
 	@Test
